@@ -13,6 +13,7 @@ gem 'puma', '~> 4.1'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'devise'
 
+gem 'bcrypt', '~> 3.1', '>= 3.1.13'
 
 group :development, :test do
 
